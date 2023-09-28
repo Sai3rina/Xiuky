@@ -1,6 +1,6 @@
 title: Xiuky
 originalAuthor: SAI3RINA aka XL34X
-description: this is just the OpenKH version of my mod from nexus
+description: Finnaly fixed roxas battle .... 
 assets:
 - name: obj\ACTOR_SORA.mdlx
   method: copy
@@ -386,10 +386,6 @@ assets:
   method: copy
   source:
   - name: obj\P_EX120_NPC_RED.mdlx
-- name: obj\P_EX130.mdlx
-  method: copy
-  source:
-  - name: obj\P_EX130.mdlx
 - name: obj\P_LK100.mdlx
   method: copy
   source:
@@ -2326,10 +2322,6 @@ assets:
   method: copy
   source:
   - name: remastered\obj\P_EX120_NPC_RED.mdlx\-2.dds
-- name: remastered\obj\P_EX130.mdlx\-0.dds
-  method: copy
-  source:
-  - name: remastered\obj\P_EX130.mdlx\-0.dds
 - name: remastered\obj\P_LK100.a.us\-5.dds
   method: copy
   source:
