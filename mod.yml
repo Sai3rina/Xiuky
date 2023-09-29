@@ -10,10 +10,6 @@ assets:
   method: copy
   source:
   - name: obj\AL14_PLAYER.mdlx
-- name: obj\B_EX390.mdlx
-  method: copy
-  source:
-  - name: obj\B_EX390.mdlx
 - name: obj\DEAD_BOSS.mdlx
   method: copy
   source:
@@ -134,10 +130,6 @@ assets:
   method: copy
   source:
   - name: obj\H_EX640.mdlx
-- name: obj\H_EX650.mdlx
-  method: copy
-  source:
-  - name: obj\H_EX650.mdlx
 - name: obj\H_EX790.mdlx
   method: copy
   source:
@@ -158,18 +150,6 @@ assets:
   method: copy
   source:
   - name: obj\LAST_HITMARK.mdlx
-- name: obj\N_EX820.mdlx
-  method: copy
-  source:
-  - name: obj\N_EX820.mdlx
-- name: obj\N_EX820_BTL.mdlx
-  method: copy
-  source:
-  - name: obj\N_EX820_BTL.mdlx
-- name: obj\N_EX830.mdlx
-  method: copy
-  source:
-  - name: obj\N_EX830.mdlx
 - name: obj\PLAYER.mdlx
   method: copy
   source:
@@ -1210,26 +1190,6 @@ assets:
   method: copy
   source:
   - name: remastered\obj\AL14_PLAYER.mdlx\-2.dds
-- name: remastered\obj\B_EX390.mdlx\-0.dds
-  method: copy
-  source:
-  - name: remastered\obj\B_EX390.mdlx\-0.dds
-- name: remastered\obj\B_EX390.mdlx\-1.dds
-  method: copy
-  source:
-  - name: remastered\obj\B_EX390.mdlx\-1.dds
-- name: remastered\obj\B_EX390.mdlx\-2.dds
-  method: copy
-  source:
-  - name: remastered\obj\B_EX390.mdlx\-2.dds
-- name: remastered\obj\B_EX390.mdlx\-3.dds
-  method: copy
-  source:
-  - name: remastered\obj\B_EX390.mdlx\-3.dds
-- name: remastered\obj\B_EX390.mdlx\-4.dds
-  method: copy
-  source:
-  - name: remastered\obj\B_EX390.mdlx\-4.dds
 - name: remastered\obj\DEAD_BOSS.mdlx\-0.dds
   method: copy
   source:
@@ -1466,22 +1426,6 @@ assets:
   method: copy
   source:
   - name: remastered\obj\H_EX640.mdlx\-2.dds
-- name: remastered\obj\H_EX650.mdlx\-0.dds
-  method: copy
-  source:
-  - name: remastered\obj\H_EX650.mdlx\-0.dds
-- name: remastered\obj\H_EX650.mdlx\-1.dds
-  method: copy
-  source:
-  - name: remastered\obj\H_EX650.mdlx\-1.dds
-- name: remastered\obj\H_EX650.mdlx\-2.dds
-  method: copy
-  source:
-  - name: remastered\obj\H_EX650.mdlx\-2.dds
-- name: remastered\obj\H_EX650.mdlx\-3.dds
-  method: copy
-  source:
-  - name: remastered\obj\H_EX650.mdlx\-3.dds
 - name: remastered\obj\H_EX790.mdlx\-0.dds
   method: copy
   source:
@@ -1558,54 +1502,6 @@ assets:
   method: copy
   source:
   - name: remastered\obj\M_EX950_DICE.mdlx\-0.dds
-- name: remastered\obj\N_EX820.mdlx\-0.dds
-  method: copy
-  source:
-  - name: remastered\obj\N_EX820.mdlx\-0.dds
-- name: remastered\obj\N_EX820.mdlx\-1.dds
-  method: copy
-  source:
-  - name: remastered\obj\N_EX820.mdlx\-1.dds
-- name: remastered\obj\N_EX820.mdlx\-2.dds
-  method: copy
-  source:
-  - name: remastered\obj\N_EX820.mdlx\-2.dds
-- name: remastered\obj\N_EX820_BTL.mdlx\-0.dds
-  method: copy
-  source:
-  - name: remastered\obj\N_EX820_BTL.mdlx\-0.dds
-- name: remastered\obj\N_EX820_BTL.mdlx\-1.dds
-  method: copy
-  source:
-  - name: remastered\obj\N_EX820_BTL.mdlx\-1.dds
-- name: remastered\obj\N_EX820_BTL.mdlx\-2.dds
-  method: copy
-  source:
-  - name: remastered\obj\N_EX820_BTL.mdlx\-2.dds
-- name: remastered\obj\N_EX820_BTL.mdlx\-3.dds
-  method: copy
-  source:
-  - name: remastered\obj\N_EX820_BTL.mdlx\-3.dds
-- name: remastered\obj\N_EX820_BTL.mdlx\-4.dds
-  method: copy
-  source:
-  - name: remastered\obj\N_EX820_BTL.mdlx\-4.dds
-- name: remastered\obj\N_EX830.mdlx\-0.dds
-  method: copy
-  source:
-  - name: remastered\obj\N_EX830.mdlx\-0.dds
-- name: remastered\obj\N_EX830.mdlx\-1.dds
-  method: copy
-  source:
-  - name: remastered\obj\N_EX830.mdlx\-1.dds
-- name: remastered\obj\N_EX830.mdlx\-2.dds
-  method: copy
-  source:
-  - name: remastered\obj\N_EX830.mdlx\-2.dds
-- name: remastered\obj\N_EX830.mdlx\-3.dds
-  method: copy
-  source:
-  - name: remastered\obj\N_EX830.mdlx\-3.dds
 - name: remastered\obj\PLAYER.mdlx\-0.dds
   method: copy
   source:
@@ -2710,7 +2606,3 @@ assets:
   method: copy
   source:
   - name: remastered\msn\us\HB33_FM_LEX.bar\US_HB33_FM_LEX_bar0.png
-- name: remastered\obj\B_EX390.a.us\voice\battle\us\n_roxas
-  method: copy
-  source:
-  - name: remastered\obj\B_EX390.a.us\voice\battle\us\n_roxas
